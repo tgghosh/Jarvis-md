@@ -36,4 +36,4 @@ jarvis md is Multi Device whatsapp bot based on X-𝄟✮͢🦋⃟≛⃝Dûßtø
 
 #### 𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️ WhatsApp SUPPORT  
 
-<a href="https://whatsapp.com/channel/0029Va9dOax4o7qDb6pVvp34"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+<a href="https://chat.whatsapp.com/G4jqF3z6gA3BJVoX8EppzE"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
