@@ -1,5 +1,5 @@
 #### 𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️ MD WHATSAPP BOT
-jarvis md is Multi Device whatsapp bot based on X-𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️;https://i.imgur.com/INtcP8I.jpg
+jarvis md is Multi Device whatsapp bot based on X-𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️
 
 
 ### SETUP 𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️
