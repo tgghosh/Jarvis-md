@@ -1,23 +1,23 @@
 {
-    "name": "Jarvis",
-    "version":"1.0.0",
-    "description": "Jarvis Multi Device whatsappbot",
-    "logo": "https://i.imgur.com/PmfMtfa.jpeg",
+    "name": "𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️",
+    "version":"9.0.0",
+    "description": "𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️ Multi Device whatsappbot",
+    "logo": "https://i.imgur.com/INtcP8I.jpg",
     "keywords": ["whatsapp"],
-    "repository": "https://github.com/Loki-Xer/Jarvis",
-    "website": "https://github.com/Loki-Xer/Jarvis",
-    "success_url": "https://github.com/Loki-Xer/Jarvis",
+    "repository": "https://github.com/tgghosh/Jarvis",
+    "website": "https://github.com/tgghosh/Jarvis",
+    "success_url": "https://github.com/tgghosh/Jarvis",
     "stack": "container",
     "env": {
         "BOT_INFO": {
             "description": "botname;ownername;ownernumber;image url",
             "required": true,
-            "value":"ᴊᴀʀᴠɪꜱ;ʟᴏᴋɪ-xᴇʀ;https://i.imgur.com/VIpl3q5.mp4"
+            "value":"𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️;https://i.imgur.com/INtcP8I.jpg"
         },
         "AUDIO_DATA": {
             "description": "audio package name",
             "required": true,
-            "value":"ʟᴏᴋɪ-xᴇʀ;ᴊᴀʀᴠɪꜱ;https://i.imgur.com/VgxJeCm.jpeg"
+            "value":"𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️;https://i.imgur.com/INtcP8I.jpg"
         },
         "WARN_COUNT": {
             "description": "warn count",
@@ -27,12 +27,12 @@
         "AUTO_STATUS_VIEWS": {
             "description": "auto status views",
             "required": true,
-            "value":"false"
+            "value":"true"
         },
         "MEDIA_DATA": {
             "description": "media data that uses in list",
             "required": true,
-            "value":"ʟɪꜱᴛ ᴍᴇɴᴜ;ᴊᴀʀᴠɪꜱ-ᴍᴅ;https://i.imgur.com/ltPPMTh.jpeg"
+            "value":"𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️;https://i.imgur.com/INtcP8I.jpg"
         },
         "HANDLER": {
             "description": "handler for bot. all so can be null or false",
@@ -46,7 +46,7 @@
         "WORK_TYPE": {
             "description": "worker type public or private",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "HEROKU_APP_NAME": {
             "description": "heroku app name, same as above entered",
@@ -59,12 +59,12 @@
         "STICKER_PACKNAME": {
             "description": "sticker package name",
             "required": true,
-            "value":"ʟᴏᴋɪ;ᴊᴀʀᴠɪꜱ"
+            "value":"𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️"
         },
         "SUDO": {
             "description": "owner number of the bot",
-            "required": false,
-            "value":"41782221168"
+            "required": true,
+            "value":"917029916612"
         }
     },
       "addons": [{
