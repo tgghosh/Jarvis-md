@@ -1,15 +1,15 @@
 {
-    "name": "Jarvis",
+    "name": "𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️",
     "version": "0.4.7",
     "description": "A simple WhatsApp Bot Based On WhiskeySockets/Baileys",
     "main": "index.js",
     "scripts": {
-        "start": "pm2 start . --attach --name jarvis",
-        "stop": "pm2 stop jarvis"
+        "start": "pm2 start . --attach --name 𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️",
+        "stop": "pm2 stop 𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Loki-Xer/Jarvis-md.git"
+        "url": "git+https://github.com/tgghosh/𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️-md.git"
     },
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
